@@ -239,10 +239,5 @@ B.Tech Computer Science Engineering
 
 Python | Machine Learning | Deep Learning | Generative AI | Full Stack Development
 
-LinkedIn: *(Add your LinkedIn Profile)*
-
-GitHub: *(Add your GitHub Profile)*
 
 ---
-
-## ⭐ If you found this project useful, don't forget to Star the repository!
